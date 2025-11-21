@@ -1,0 +1,5 @@
+1|pizza|15|comida
+2|pantalon|250|ropa
+3|chamarra de invierno|450|ropa de invierno
+4|tenis deportivos|1000|tenis deportivos
+5|hamburguesa|150|comida
