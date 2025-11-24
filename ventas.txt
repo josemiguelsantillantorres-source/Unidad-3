@@ -1,0 +1,5 @@
+pantalon|250.0|3|750.0
+hamburguesa|150.0|2|300.0
+pizza|15.0|6|90.0
+tenis deportivos|1000.0|4|4000.0
+chamarra de invierno|450.0|89|40050.0
